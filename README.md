@@ -20,7 +20,25 @@ I:
 - Performed sensitivity analysis to examine the effect of assumptions on the results
 - Used Multi-Criteria Decision Analysis to compare the overall sustainability of the two products
 - Developed design and policy recommendations based on the findings
+## Project Visuals
 
+### Life Cycle Assessment Framework
+
+Cradle-to-grave system boundaries used to assess the environmental impacts of the two menstrual products across raw material extraction, manufacturing, transport, use and end-of-life.
+
+![Life cycle assessment framework](https://raw.githubusercontent.com/yemesis/healthcare-sustainability-assessment/main/figures/lca-system-boundaries.png)
+
+### Global Warming Potential Comparison
+
+Comparison of total greenhouse gas emissions over the 10-year functional unit, showing substantially lower GWP for the reusable menstrual cup.
+
+![Global warming potential comparison](https://raw.githubusercontent.com/yemesis/healthcare-sustainability-assessment/main/figures/gwp-comparison-results.png)
+
+### Multi-Criteria Decision Analysis
+
+Weighted comparison of the two products across Global Warming Potential, Human Toxicity Potential, Cost per Use and Consumer Health & Safety Risks.
+
+![MCDA comparison](https://raw.githubusercontent.com/yemesis/healthcare-sustainability-assessment/main/figures/mcda-comparison.png)
 ## Key Findings
 
 The analysis found that reusable silicone menstrual cups had substantially lower environmental and lifetime economic impacts than single-use tampons with plastic applicators.
