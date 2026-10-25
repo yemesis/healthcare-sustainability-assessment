@@ -1,72 +1,35 @@
-# Healthcare Sustainability Assessment
+# Life Cycle Assessment: Tampons vs Menstrual Cups
 
-## Overview
+Is a reusable menstrual cup really better than single-use tampons, once you count everything from raw materials to the bin? And by how much?
 
-Academic sustainability assessment comparing single-use tampons with plastic applicators and reusable silicone menstrual cups using environmental, economic and social Life Cycle Assessment (LCA).
+**Individual coursework · Sustainability Assessments for Design · Queen Mary University of London, 2024–25**
 
-## Project Aim
+## What I did
 
-The project aimed to compare the sustainability of both products across their life cycles, identify key environmental, economic and social impacts, and develop recommendations to improve product sustainability and encourage the adoption of more sustainable alternatives.
+I ran a cradle-to-grave life cycle assessment comparing tampons with plastic applicators against one reusable silicone menstrual cup over ten years (about 2,400 tampons). It covered raw materials, manufacturing, transport, use and disposal, using data from research papers, government reports, databases and manufacturers.
 
-## My Work
+I looked at three sides of sustainability: environmental (global warming potential and human toxicity), economic (cost per use) and social (consumer health and safety). Then I combined them with multi-criteria decision analysis to compare the two products overall.
 
-I:
+## What went wrong
 
-- Conducted a cradle-to-grave Life Cycle Assessment covering raw materials, manufacturing, transport, use and end-of-life
-- Collected and evaluated data from research literature, government reports, databases and manufacturer information
-- Assessed environmental impacts including Global Warming Potential and Human Toxicity Potential
-- Evaluated economic impacts using cost-per-use calculations and time-value considerations
-- Conducted a social sustainability assessment considering consumer health and safety
-- Performed sensitivity analysis to examine the effect of assumptions on the results
-- Used Multi-Criteria Decision Analysis to compare the overall sustainability of the two products
-- Developed design and policy recommendations based on the findings
-## Project Visuals
+An LCA is only as good as its assumptions, and several of mine (product lifetime, usage, prices) could reasonably have been different. So I ran a sensitivity analysis to check whether changing them would flip the result. It didn't, which made me much more confident in the conclusion.
 
-### Life Cycle Assessment Framework
+## Results
 
-Cradle-to-grave system boundaries used to assess the environmental impacts of the two menstrual products across raw material extraction, manufacturing, transport, use and end-of-life.
+- Over ten years, the tampons produced **46.91 kg CO₂-eq** and the cup **0.34 kg CO₂-eq**, a reduction of more than 99%.
+- Tampons cost about **£465.50** over ten years against a one-off **£20** for the cup.
+- The cup came out ahead on every criterion in the decision analysis, with a weighted score of **0.92** against 0.08 for tampons. The report ends with design and policy recommendations to help more people switch.
 
-![Life cycle assessment framework](https://raw.githubusercontent.com/yemesis/healthcare-sustainability-assessment/main/figures/lca-system-boundaries.png)
-
-### Global Warming Potential Comparison
-
-Comparison of total greenhouse gas emissions over the 10-year functional unit, showing substantially lower GWP for the reusable menstrual cup.
+![LCA system boundaries](https://raw.githubusercontent.com/yemesis/healthcare-sustainability-assessment/main/figures/lca-system-boundaries.png)
 
 ![Global warming potential comparison](https://raw.githubusercontent.com/yemesis/healthcare-sustainability-assessment/main/figures/gwp-comparison-results.png)
 
-### Multi-Criteria Decision Analysis
+![Multi-criteria decision analysis](https://raw.githubusercontent.com/yemesis/healthcare-sustainability-assessment/main/figures/mcda-comparison.png)
 
-Weighted comparison of the two products across Global Warming Potential, Human Toxicity Potential, Cost per Use and Consumer Health & Safety Risks.
+## Tools
 
-![MCDA comparison](https://raw.githubusercontent.com/yemesis/healthcare-sustainability-assessment/main/figures/mcda-comparison.png)
-## Key Findings
+Life cycle assessment · sensitivity analysis · multi-criteria decision analysis · Excel
 
-The analysis found that reusable silicone menstrual cups had substantially lower environmental and lifetime economic impacts than single-use tampons with plastic applicators.
+## Files
 
-The assessment also identified key life-cycle hotspots and factors influencing the sustainability of both products, which informed recommendations for product improvement and wider adoption of more sustainable alternatives.
-
-## Methods
-
-- Life Cycle Assessment (LCA)
-- Environmental impact assessment
-- Economic assessment
-- Social sustainability assessment
-- Sensitivity analysis
-- Multi-Criteria Decision Analysis (MCDA)
-- Comparative evaluation
-- Evidence-based recommendation development
-
-## Skills Demonstrated
-
-- Research and data collection
-- Quantitative analysis
-- Critical thinking
-- Evidence evaluation
-- Sustainability assessment
-- Data interpretation
-- Report writing
-- Recommendation development
-
-## Project Materials
-
-The full project report is available in this repository.
+- [Full report](./healthcare-sustainability-assessment-report.pdf)
